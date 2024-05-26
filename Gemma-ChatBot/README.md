@@ -6,5 +6,6 @@ This project demonstrates the creation of a generative AI chatbot using the [goo
 
 The primary goal of this project is to showcase the capabilities of the Gemma model in generating human-like text responses for given inputs, and to deploy the chatbot using Streamlit for an interactive user interface.
 
+## Here is the Preview
 
 ![Gemma](https://github.com/JawadGigyani/Generative-AI/assets/98108311/5ef42dd6-f23c-4ed4-972d-86a656c07427)
